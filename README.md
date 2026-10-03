@@ -4,7 +4,7 @@ Early machine-learning experiments, consolidated from their original standalone 
 
 | Folder | What | Stack |
 |---|---|---|
-| [`pytorch-resnet18-crack-detection`](pytorch-resnet18-crack-detection) | Detect cracks in concrete images with a fine-tuned ResNet18 (~99% accuracy) | PyTorch |
-| [`pytorch-MNIST-models`](pytorch-MNIST-models) | Softmax and CNN digit classifiers on MNIST | PyTorch |
+| [`pytorch-resnet18-crack-detection`](pytorch-resnet18-crack-detection) | Crack / no-crack image classifier via ResNet18 transfer learning (99.9% accuracy) | PyTorch |
+| [`pytorch-MNIST-models`](pytorch-MNIST-models) | LogSoftmax and CNN digit classifiers on MNIST | PyTorch |
 | [`regression-model-with-keras`](regression-model-with-keras) | Build and compare regression models on concrete compressive strength data | Keras |
-| [`sklearn-loan-classifier`](sklearn-loan-classifier) | Train and evaluate KNN, decision tree, SVM and logistic regression on loan data | scikit-learn |
+| [`sklearn-loan-classifier`](sklearn-loan-classifier) | KNN, decision tree, SVM and logistic regression on loan repayment data (Coursera ML with Python capstone) | scikit-learn |
